@@ -143,7 +143,6 @@
     <type fullname="PublicInstitutions.TriggerPoint" preserve="all" />
     <type fullname="RegionalShift.BottomBar" preserve="all" />
     <type fullname="RegionalShift.BuildingMovement" preserve="all" />
-    <type fullname="RegionalShift.ButtonOldSuwon" preserve="all" />
     <type fullname="RegionalShift.CameraFollow" preserve="all" />
     <type fullname="RegionalShift.CameraRotatePause" preserve="all" />
     <type fullname="RegionalShift.ChildrenActive" preserve="all" />
@@ -151,12 +150,9 @@
     <type fullname="RegionalShift.CountDown" preserve="all" />
     <type fullname="RegionalShift.FadeOutImage" preserve="all" />
     <type fullname="RegionalShift.GameSoundOnOff" preserve="all" />
-    <type fullname="RegionalShift.GoPastSpot" preserve="all" />
-    <type fullname="RegionalShift.MoveSpot" preserve="all" />
     <type fullname="RegionalShift.NPCMovement" preserve="all" />
     <type fullname="RegionalShift.ObjsOnOffButton" preserve="all" />
     <type fullname="RegionalShift.PlayerMovement" preserve="all" />
-    <type fullname="RegionalShift.PopupGuidSpot" preserve="all" />
     <type fullname="RegionalShift.PopupSpeaker" preserve="all" />
     <type fullname="RegionalShift.PuzzleGroupManager" preserve="all" />
     <type fullname="RegionalShift.PuzzleHint" preserve="all" />
@@ -164,12 +160,8 @@
     <type fullname="RegionalShift.PuzzleTimer" preserve="all" />
     <type fullname="RegionalShift.QuizPopup" preserve="all" />
     <type fullname="RegionalShift.QuizTimer" preserve="all" />
-    <type fullname="RegionalShift.ScratchCardSpot" preserve="all" />
-    <type fullname="RegionalShift.SpotPoint" preserve="all" />
-    <type fullname="RegionalShift.SpotVisitor" preserve="all" />
     <type fullname="RegionalShift.ToggleActive" preserve="all" />
     <type fullname="RegionalShift.VideoPlay" preserve="all" />
-    <type fullname="RegionalShift.VrController" preserve="all" />
     <type fullname="ScreenTransitionsPro.ScreenTransitionSingleFocusSoft" preserve="all" />
     <type fullname="TopToBottom" preserve="all" />
     <type fullname="EEF.ObjectRotate/UserInfo" preserve="nothing" serialized="true" />
