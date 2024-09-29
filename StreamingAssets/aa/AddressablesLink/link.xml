@@ -150,6 +150,7 @@
     <type fullname="RegionalShift.FadeOutImage" preserve="all" />
     <type fullname="RegionalShift.GameSoundOnOff" preserve="all" />
     <type fullname="RegionalShift.ObjsOnOffButton" preserve="all" />
+    <type fullname="RegionalShift.PlayerMovement" preserve="all" />
     <type fullname="RegionalShift.PopupSpeaker" preserve="all" />
     <type fullname="RegionalShift.PuzzleGroupManager" preserve="all" />
     <type fullname="RegionalShift.PuzzleHint" preserve="all" />
@@ -222,6 +223,8 @@
   </assembly>
   <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
