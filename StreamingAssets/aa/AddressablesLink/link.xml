@@ -142,6 +142,7 @@
     <type fullname="PublicInstitutions.TimerController" preserve="all" />
     <type fullname="PublicInstitutions.TriggerPoint" preserve="all" />
     <type fullname="RegionalShift.BottomBar" preserve="all" />
+    <type fullname="RegionalShift.BuildingMovement" preserve="all" />
     <type fullname="RegionalShift.CameraRotatePause" preserve="all" />
     <type fullname="RegionalShift.ChildrenActive" preserve="all" />
     <type fullname="RegionalShift.ClickOtherPlace" preserve="all" />
@@ -218,6 +219,9 @@
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
     <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
