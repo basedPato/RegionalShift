@@ -143,6 +143,7 @@
     <type fullname="PublicInstitutions.TriggerPoint" preserve="all" />
     <type fullname="RegionalShift.BottomBar" preserve="all" />
     <type fullname="RegionalShift.BuildingMovement" preserve="all" />
+    <type fullname="RegionalShift.CameraFollow" preserve="all" />
     <type fullname="RegionalShift.CameraRotatePause" preserve="all" />
     <type fullname="RegionalShift.ChildrenActive" preserve="all" />
     <type fullname="RegionalShift.ClickOtherPlace" preserve="all" />
@@ -159,6 +160,7 @@
     <type fullname="RegionalShift.QuizPopup" preserve="all" />
     <type fullname="RegionalShift.QuizTimer" preserve="all" />
     <type fullname="RegionalShift.ToggleActive" preserve="all" />
+    <type fullname="ScreenTransitionsPro.ScreenTransitionSingleFocusSoft" preserve="all" />
     <type fullname="TopToBottom" preserve="all" />
     <type fullname="EEF.ObjectRotate/UserInfo" preserve="nothing" serialized="true" />
     <type fullname="EEF.PlayerCameraRotation/UserInfo" preserve="nothing" serialized="true" />
