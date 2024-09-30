@@ -143,6 +143,7 @@
     <type fullname="PublicInstitutions.TriggerPoint" preserve="all" />
     <type fullname="RegionalShift.BottomBar" preserve="all" />
     <type fullname="RegionalShift.BuildingMovement" preserve="all" />
+    <type fullname="RegionalShift.CameraFollow" preserve="all" />
     <type fullname="RegionalShift.CameraRotatePause" preserve="all" />
     <type fullname="RegionalShift.ChildrenActive" preserve="all" />
     <type fullname="RegionalShift.ClickOtherPlace" preserve="all" />
