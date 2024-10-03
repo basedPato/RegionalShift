@@ -141,16 +141,31 @@
     <type fullname="PublicInstitutions.QuizTimer" preserve="all" />
     <type fullname="PublicInstitutions.TimerController" preserve="all" />
     <type fullname="PublicInstitutions.TriggerPoint" preserve="all" />
+    <type fullname="RegionalShift.AudioController" preserve="all" />
     <type fullname="RegionalShift.BottomBar" preserve="all" />
     <type fullname="RegionalShift.BuildingMovement" preserve="all" />
+    <type fullname="RegionalShift.ButtonController" preserve="all" />
+    <type fullname="RegionalShift.ButtonGame" preserve="all" />
+    <type fullname="RegionalShift.ButtonOldSuwon" preserve="all" />
+    <type fullname="RegionalShift.ButtonQuiz" preserve="all" />
+    <type fullname="RegionalShift.CameraController" preserve="all" />
+    <type fullname="RegionalShift.CameraFollow" preserve="all" />
     <type fullname="RegionalShift.CameraRotatePause" preserve="all" />
     <type fullname="RegionalShift.ChildrenActive" preserve="all" />
     <type fullname="RegionalShift.ClickOtherPlace" preserve="all" />
     <type fullname="RegionalShift.CountDown" preserve="all" />
     <type fullname="RegionalShift.FadeOutImage" preserve="all" />
+    <type fullname="RegionalShift.FrontPopup" preserve="all" />
+    <type fullname="RegionalShift.FullScreen" preserve="all" />
     <type fullname="RegionalShift.GameSoundOnOff" preserve="all" />
+    <type fullname="RegionalShift.GoFirstStage" preserve="all" />
+    <type fullname="RegionalShift.GoPastSpot" preserve="all" />
+    <type fullname="RegionalShift.MainController" preserve="all" />
+    <type fullname="RegionalShift.MoveSpot" preserve="all" />
+    <type fullname="RegionalShift.NPCMovement" preserve="all" />
     <type fullname="RegionalShift.ObjsOnOffButton" preserve="all" />
     <type fullname="RegionalShift.PlayerMovement" preserve="all" />
+    <type fullname="RegionalShift.PopupGuidSpot" preserve="all" />
     <type fullname="RegionalShift.PopupSpeaker" preserve="all" />
     <type fullname="RegionalShift.PuzzleGroupManager" preserve="all" />
     <type fullname="RegionalShift.PuzzleHint" preserve="all" />
@@ -158,7 +173,25 @@
     <type fullname="RegionalShift.PuzzleTimer" preserve="all" />
     <type fullname="RegionalShift.QuizPopup" preserve="all" />
     <type fullname="RegionalShift.QuizTimer" preserve="all" />
+    <type fullname="RegionalShift.RetrunVRButton" preserve="all" />
+    <type fullname="RegionalShift.ScratchCardController" preserve="all" />
+    <type fullname="RegionalShift.ScratchCardSpot" preserve="all" />
+    <type fullname="RegionalShift.SoundOnOff" preserve="all" />
+    <type fullname="RegionalShift.SpotPoint" preserve="all" />
+    <type fullname="RegionalShift.SpotVisitor" preserve="all" />
     <type fullname="RegionalShift.ToggleActive" preserve="all" />
+    <type fullname="RegionalShift.ToggleAutoRotate" preserve="all" />
+    <type fullname="RegionalShift.ToggleGameObjButton" preserve="all" />
+    <type fullname="RegionalShift.Unmission" preserve="all" />
+    <type fullname="RegionalShift.VideoController" preserve="all" />
+    <type fullname="RegionalShift.VideoPlay" preserve="all" />
+    <type fullname="RegionalShift.VrController" preserve="all" />
+    <type fullname="RegionalShift.VrMapButton" preserve="all" />
+    <type fullname="RegionalShift.ZoomInOut" preserve="all" />
+    <type fullname="ScratchCardAsset.EraseProgress" preserve="all" />
+    <type fullname="ScratchCardAsset.ScratchCard" preserve="all" />
+    <type fullname="ScratchCardAsset.ScratchCardManager" preserve="all" />
+    <type fullname="ScreenTransitionsPro.ScreenTransitionSingleFocusSoft" preserve="all" />
     <type fullname="TopToBottom" preserve="all" />
     <type fullname="EEF.ObjectRotate/UserInfo" preserve="nothing" serialized="true" />
     <type fullname="EEF.PlayerCameraRotation/UserInfo" preserve="nothing" serialized="true" />
@@ -187,6 +220,7 @@
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
     <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
